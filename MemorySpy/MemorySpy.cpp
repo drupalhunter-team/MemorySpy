@@ -41,7 +41,6 @@ Countermeasures:
 #include <TlHelp32.h>
 
 #include "SearchAlgo.h"
-#include "Paypal.h"
 
 using namespace std;
 
